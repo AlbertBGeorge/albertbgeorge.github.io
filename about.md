@@ -9,4 +9,4 @@ I'm CSE student at Model Engineering College, Kochi
 
 ### Contact me
 
-[email@domain.com](mailto:albertbgeorge@gmail.com "Please don't spam")
+[albertbgeorge@gmail.com](mailto:albertbgeorge@gmail.com "Please don't spam")
