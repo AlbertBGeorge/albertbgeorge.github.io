@@ -2,9 +2,10 @@
 layout: post
 title: My Impossible List
 ---
-<p>
+
 I had an old bucket list, which had some random nearly impossible events without any defined time, I thought that won't help me to take action now.
 To fix that, I'm creating a new list which I call it my **impossible list**. I got this idea while going through a Youtube video by [*Thomas Frank*](https://www.youtube.com/user/electrickeye91) who explained the difference. 
+
 Put together, this is an ever-increasing list of experiences that build upon each other, and more importantly implore me to take action. This page is very personal, but I won't mind anyone having a look at it.
 
 ### Current Focuses:
@@ -90,4 +91,3 @@ I'd like to sum up the list following a quote:
 
 
 If you found this list inspiring, I'd challenge you to create one on your own.
-</p> 
